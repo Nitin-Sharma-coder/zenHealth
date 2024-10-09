@@ -119,3 +119,9 @@ A: You can report issues or suggest improvements by creating an issue in the Git
 **Q: Can I use this application for my clinic?**  
 A: Yes! The application can be customized to fit the needs of your healthcare practice.
 
+## Use Cases
+
+- **For Patients**: Easily manage appointments and receive timely notifications.
+- **For Doctors**: Access patient records quickly and efficiently schedule appointments.
+- **For Administrators**: Streamline operations and manage data effortlessly.
+
